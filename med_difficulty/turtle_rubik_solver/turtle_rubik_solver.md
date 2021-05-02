@@ -219,6 +219,8 @@ def onclick(x, y):
 screen.onclick(onclick)
 ```
 
+<img alt="" src="img_1.png" />
+
 ## 3. Solving
 
 Next, we need to do the actual solving code. Check out 
