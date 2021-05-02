@@ -19,8 +19,9 @@ the classic Logo turtle. It allows drawing points, lines and shapes using a pen
 relative to the current position and rotation. Initially the turtle is
 pointing to the east in the center of the canvas.
 
-<img src="./turtle_drawing.svg" alt="Turtle walking in spiral" />
-[https://commons.wikimedia.org/wiki/File:Turtle_clip_art.svg]
+<img src="./img_2.png" alt="Turtle walking in spiral" />
+Image from https://commons.wikimedia.org/wiki/File:Turtle_clip_art.svg
+under a creative commons license
 
 Although they may use x/y coordinates relative to the top left of the screen by
 default and don't keep track of current heading rotation except in some 
@@ -218,8 +219,6 @@ def onclick(x, y):
 # coordinates as 2 parameters to the onclick function
 screen.onclick(onclick)
 ```
-
-<img alt="" src="img_1.png" />
 
 ## 3. Solving
 
